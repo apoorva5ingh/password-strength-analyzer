@@ -21,7 +21,7 @@ password_analyzer/
 
 ## Demo
 
-![Password Strength Analyzer Demo](demo/password-analyzer.png)
+![Password Strength Analyzer Demo](demo/banner.png)
 
 ## Setup
 
