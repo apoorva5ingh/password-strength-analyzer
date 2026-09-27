@@ -19,6 +19,10 @@ password_analyzer/
 └── README.md
 ```
 
+## Demo
+
+![Password Strength Analyzer Demo](demo/password-analyzer.png)
+
 ## Setup
 
 ```bash
